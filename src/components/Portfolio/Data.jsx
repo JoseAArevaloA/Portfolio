@@ -33,7 +33,7 @@ export const projectsData = [
         action5: '',
         action6: '',
         web: '',
-        code: 'https://github.com/JoseAArevaloA/PortfolioJAAA',
+        code: 'https://github.com/JoseAArevaloA/Portfolio',
     },
    
 ]
